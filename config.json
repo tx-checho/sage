@@ -1,5 +1,5 @@
 {
-  "api_key": "AIzaSyC5t_ynEWCAefSqxUfYNo7jgHoGjC4LBZw",
+  "api_key": "[API KEY]",
   "screen_interval": 2,
   "model": "gemini-2.5-flash-lite",
   "hotkey": "ctrl+space",
